@@ -1,8 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-const q = import('https://code.jquery.com/jquery-3.2.1.min.js');
-
-console.log(q);
 
 const Loader = styled.div`
   padding: 10px 0;
