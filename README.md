@@ -8,7 +8,7 @@ Example project that uses the github graphql and Apollo client
 First, clone the project:
 
 ```bash
-$ git clone https://github.com/katopz/react-apollo-graphql-github-example.git <my-project-name>
+$ git clone https://github.com/shettypuneeth/apollo-github-graphql-example.git <my-project-name>
 $ cd <my-project-name>
 ```
 Then install dependencies and check to see it works.
